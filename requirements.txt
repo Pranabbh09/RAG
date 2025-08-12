@@ -1,0 +1,8 @@
+langchain 
+chromadb 
+fastapi 
+streamlit
+google-generativeai 
+langchain
+sentence-transformers
+uvicorn
